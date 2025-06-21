@@ -1,0 +1,181 @@
+{
+    "reviews" : [
+        {
+        "id" : 1,
+        "image" : "",
+        "name" : "Amber-kaye Africa",
+        "role" : "Colleague",
+        "words" : "I have had the pleasure of working alongside Laiquah on several projects, and I can confidently attest to her exceptional work ethic. Laiquah approaches every task with dedication and a strong sense of responsibility, consistently meeting deadlines and maintaining high-quality standards. Her positive attitude and approachable nature make her a valued team player. She is not only skilled in her field but also demonstrates the ability to learn quickly and adapt to new challenges. Laiquah is someone I can always rely on to deliver."
+    },
+    {
+     "id" : 2,
+        "image" : "",
+        "name" : "Ganiefah Majiet",
+        "role" : "Colleague",
+        "words" : "Throughout our collaboration, Laiquah has proven to be a highly reliable and driven individual. She takes initiative, manages her time efficiently, and consistently produces outstanding results. Her attention to detail and problem-solving abilities significantly contribute to the success of our projects. Laiquah’s professionalism is complemented by her warm and respectful personality, which creates a pleasant and productive working environment. It is evident that she is committed to continuous growth and excellence."   
+    },
+    {
+        "id" : 3,
+           "image" : "",
+           "name" : "Naqiyah lodewyk",
+           "role" : "Colleague",
+           "words" : "Laiquah is an exemplary colleague who upholds a strong work ethic and demonstrates unwavering reliability. Her ability to manage multiple priorities while maintaining accuracy is commendable. Laiquah possesses excellent technical and interpersonal skills, and she consistently contributes valuable insights during team discussions. Her calm demeanor, respectful communication, and willingness to support her peers make her a key asset to any team. I have full confidence in her abilities and professionalism."   
+       },
+       {
+        "id" : 4,
+           "image" : "",
+           "name" : "Laeeq Majal",
+           "role" : "Colleague",
+           "words" : "Working with Laiquah has been a rewarding experience. She is consistently diligent, dependable, and meticulous in her work. Her technical skills are impressive, and she quickly grasps complex tasks with ease. Beyond her professional capabilities, Laiquah has a kind and approachable personality that fosters strong collaboration across departments. She is always willing to assist others and often goes beyond what is expected to ensure the success of the team. Her reliability is second to none."   
+       },
+       {
+        "id" : 5,
+           "image" : "",
+           "name" : "Eighton paulse",
+           "role" : "Colleague",
+           "words" : "Laiquah is a reliable and results-driven professional who consistently demonstrates a high level of commitment to her work. She approaches her responsibilities with precision and enthusiasm, ensuring that all tasks are completed efficiently and to a high standard. Her skill set is well-rounded, and she frequently offers innovative solutions to complex problems. Laiquah’s respectful and friendly demeanor enhances team dynamics, and her dependability makes her an invaluable member of the organization."   
+       }
+],
+    "projects" : [
+        {
+        "id" : 1,
+        "image" : "",
+        "name" : "BMI Calculator",
+        "description" : "The BMI Calculator is a user-friendly web application designed to help individuals easily calculate their Body Mass Index (BMI) based on their height and weight. This tool provides immediate feedback, categorizing the BMI value into standard ranges (underweight, normal weight, overweight, and obese) to assist users in understanding their body composition.",
+        "tech-used" : "html, css and javascript",
+        "github" : "https://github.com/Laiquah/BMIcalculator_revamp.git",
+        "netlify" : "https://bmicalculator-revamp.netlify.app/"
+    },
+    {
+        "id" : 2,
+        "image" : "",
+        "name" : "Calculator",
+        "description" : "This calculator project is a simple yet powerful tool designed to handle basic arithmetic operations, including addition, subtraction, multiplication, and division. Built with an intuitive interface, the calculator ensures a seamless user experience, allowing users to quickly input numbers and receive accurate results.",
+        "tech-used" : "html, css and javascript",
+        "github" : "https://github.com/Laiquah/calculator_revamp",
+        "netlify" : "https://calculator-revamp.netlify.app/"
+    },
+    {
+        "id" : 3,
+        "image" : "",
+        "name" : "To-do list",
+        "description" : "The Task Tracker is a user-friendly to-do list application designed to help users manage their daily tasks efficiently. With an intuitive interface, users can easily add, edit, and delete tasks, ensuring they stay organized and on top of their responsibilities. The application features a simple layout that allows users to categorize tasks by priority or due date, making it easier to focus on what matters most.",
+        "tech-used" : "html, css and javascript",
+        "github" : "https://github.com/Laiquah/todolist_revamp",
+        "netlify" : "https://thriving-pothos-a1b769.netlify.app/"
+    },
+    {
+        "id" : 4,
+        "image" : "",
+        "name" : "Vuejs portfolio",
+        "description" : "This project is a dynamic and responsive portfolio website built with Vue.js and powered by a JSON server for managing content. The portfolio showcases projects, skills, and personal information in an organized and interactive way.",
+        "tech-used" : "github, vuejs and CSS",
+        "github" : "add it",
+        "netlify" : "add it"
+    },
+    {
+        "id" : 5,
+        "image" : "",
+        "name" : "Power outage innovations",
+        "description" : "I created a generator website using Node.js, Vue.js, and an API to provide users with quick, efficient access to generated content. Node.js powers the backend, managing server-side functionality and API requests, while Vue.js is used to build a dynamic, responsive frontend, ensuring an interactive and user-friendly experience. By integrating with an API, the site fetches relevant data to generate customized results for users, adding a layer of real-time functionality that makes the tool adaptable to various needs. This combination of technologies results in a fast, scalable, and engaging platform that meets user demands effectively.",
+        "tech-used" : "Frontend (vuejs, bootstrap), Backend (Render, postman)",
+        "github" : "https://github.com/Laiquah/LaiquahCapstoneProject.git",
+        "netlify" : "add it"
+    },
+    {
+        "id" : 6,
+        "image" : "",
+        "name" : "Wordpress project",
+        "description" : "This is an e-commerce using wordpress and elementor. Wordpress is a CMS used for clients to either make a normal or a webshop site.",
+        "tech-used" : "Wordpress, Elementor, Woo-commerce",
+        "netlify" : "add pantheon link"
+    }
+    ],
+        "education" : [
+            {
+                "id" : 1,
+                "image" : "",
+                "place" : "Zwaanswyk High School",
+                "qualification" : "Matric (grade 12)",
+                "year" : "November 2021"
+            },
+            {
+                "id" : 2,
+                "image" : "",
+                "place" : "Life Choices Academy",
+                "qualification" : "Web and Software Development",
+                "year" : "April 2023 - September 2023"
+            },
+            {
+                "id" : 3,
+                "image" : "",
+                "place" : "Grizzly New Marketing",
+                "qualification" : "SEO Web Developer",
+                "year" : "October 2023 - March 2024"
+            }
+        ],
+        "softskills" : [
+            {
+                "id" : 1,
+                "soft" : "communication",
+                "explanation" : "I communicate clearly with team members and clients to ensure project goals, timelines, and expectations are well understood. Strong communication helps me collaborate effectively and deliver quality results."
+            },
+            {
+                "id" : 2,
+                "soft" : "Problem-Solving",
+                "explanation" : "I approach challenges with a solutions-oriented mindset, quickly identifying issues and working methodically to resolve them. This allows me to build efficient, user-friendly websites that meet both client and user needs."
+            },
+            {
+                "id" : 3,
+                "soft" : "Adaptability",
+                "explanation" : "I thrive in fast-paced environments where priorities and technologies often change. I’m quick to learn new tools and adjust to project shifts, ensuring I consistently meet evolving requirements."
+            },
+            {
+                "id" : 4,
+                "soft" : "Time Management",
+                "explanation" : "I organize tasks efficiently and prioritize my workload to meet deadlines without compromising quality. This helps me maintain steady progress on multiple projects and deliver on time."
+            },
+            {
+                "id" : 5,
+                "soft" : "Attention to Detail",
+                "explanation" : "I pay close attention to both the design and functionality of websites, carefully testing and refining my work to prevent errors. This ensures the final product is polished, reliable, and user-focused."
+            }
+        ],
+        "technicalSkills" : [
+            {
+                "id" : 1,
+                "frontend" : "HTML, CSS, Vue",
+                "backend" : "Javascript, NodeJS",
+                "databases" : "MySQL, Clevercloud, Firebase",
+                "designtools" : "Figma, Adobe XD, Canva", 
+                "Tools and Other" : "Github, Git, APIs, Google analytics, search console, tag manager, screaming frog, ahrefs, key word research and tracking, Blogdrip, Microsoft Suite",
+                "CMS" : "Wordpress, WIX, JOOMLA, Shopify, Lightspeed, Webflow, Jouweb, My online shop/store/webshop, Drupal etc "
+            }
+        ],
+        "experience" : [
+            {
+                "id" : 1,
+                "image" : "",
+                "year" : "2022 - april 2024",
+                "place" : "Mr.Price",
+                "role" : "Sales Assistant",
+                "description" : "I was responsible for providing customer assistance in a retail or customer-oriented environment. I helped customers find and purchase products, possess product knowledge, contribute to sales targets, handle transactions, provide excellent customer service, maintain store appearance, and receive product training."
+            }, 
+            {
+                "id" : 2,
+                "image" : "",
+                "year" : "September 2023 - October 2023",
+                "place" : "Life Choices Studio",
+                "role" : "Web developer internship",
+                "description" : "As a Web Developer Intern at Life Choices Studio, I worked closely with a collaborative team to develop and maintain responsive, user-friendly websites for various clients. I gained hands-on experience using HTML, CSS, JavaScript, and Vue.js to build interactive web pages, while also supporting backend tasks with Node.js. My role involved managing and customizing websites through CMS platforms such as WordPress, WIX, Joomla, and Shopify. I became proficient in using tools like Git for version control and integrated Google Analytics, Google Tag Manager, and Search Console to enhance website performance and tracking. Throughout this internship, I developed strong problem-solving skills, improved my time management, and learned to work effectively in a team setting, contributing to real-world projects and client solutions."
+            },
+            {
+                "id" : 3,
+                "image" : "",
+                "year" : "March 2024 - Prsent",
+                "place" : "Grizzly New Marketing",
+                "role" : "Junior SEO Web developer",
+                "description" : "As a Junior SEO Web Developer at Grizzly New Marketing, I am responsible for developing and maintaining responsive, user-friendly websites while ensuring they are fully optimized for search engines. My role involves implementing on-page SEO best practices, optimizing meta tags, headings, URLs, images, and internal linking to improve website visibility and performance. I work with tools such as Google Analytics, Google Search Console, and Google Tag Manager to track website data and identify areas for technical improvements. I conduct SEO audits, resolve crawl errors, improve site speed, and ensure mobile responsiveness. Additionally, I collaborate with SEO specialists, designers, and project managers to align web development tasks with client goals. I also manage content updates using CMS platforms like WordPress, Joomla, Shopify, and WIX, ensuring that websites meet both functional and SEO standards while providing a seamless user experience."
+            }
+        ]
+}
